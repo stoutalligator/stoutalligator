@@ -24,12 +24,12 @@ Pick two `.xlsx` files, select sheets to compare, and get a visual diff with sim
 
 ---
 
-### [Flash Layer](https://github.com/atoutalligotr/flash-layer)
-> Offline-first flashcard app with SM-2 spaced repetition — no account, no server, all data lives in your browser.
+### [Node Query Editor](https://github.com/atoutalligotr/node-query-editor)
+> A desktop app for querying large XML files with SQL-like syntax. Write NXQL queries, explore nested data as flat tables, and export to CSV — without ever touching raw XML.
 
-Anki-style 4-option ratings, JSON deck import, course grouping, streak tracking with a 90-day heatmap, and 6 card themes. Installable as a PWA or packageable as a desktop app via Tauri.
+Built with Electron. Handles files up to 1 GB+ by running all parsing in a background worker thread, keeping the UI responsive at all times.
 
-**Stack:** React 19 · TypeScript · Vite · Zustand · Dexie.js (IndexedDB) · Framer Motion · Tailwind CSS v3
+**Stack:** React 19 · TypeScript · Electron
 
 ---
 
