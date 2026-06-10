@@ -44,4 +44,4 @@ Handles files that break VS Code's built-in formatter. Color-coded nodes, inline
 
 ## Tech I Reach For
 
-`TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `Prisma` `Tailwind CSS` `VS Code Extensions` `Vite` `IndexedDB`
+`TypeScript` `React` `Python` `Next.js` `Node.js` `PostgreSQL` `Prisma` `Tailwind CSS` `VS Code Extensions` `Vite` `IndexedDB`
