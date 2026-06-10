@@ -6,7 +6,7 @@ I build tools that make tedious things fast — study platforms, file diffing ut
 
 ## Featured Projects
 
-### [ATLAS](https://github.com/atoutalligotr/atlas.git)
+### Actuarial Exam Study Platform
 > Actuarial exam study platform with spaced repetition, daily games, and a full content management system.
 
 Built for students preparing for actuarial exams. Covers everything from structured topic content and flashcards to practice problems, forum discussions, and a character/XP progression system. Admins manage all content through an in-app block editor.
