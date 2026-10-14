@@ -15,12 +15,10 @@ Built for students preparing for actuarial exams. Covers everything from structu
 
 ---
 
-### [Excel Delta View](https://github.com/atoutalligotr/excel-delta-view.git)
-> VS Code extension for side-by-side Excel file comparison with cell-level diffs and exportable reports.
+### Parks Pal
+> A cozy National Parks companion for collecting memories, planning adventures, and tracking your journey to every U.S. National Park.
 
-Pick two `.xlsx` files, select sheets to compare, and get a visual diff with similarity scores per sheet. Export results as a multi-tab Excel report or a self-contained, password-protected HTML file (AES-256-GCM).
-
-**Stack:** TypeScript · VS Code API · ExcelJS · esbuild
+Mark parks you've visited, build a personal postcard collection, discover trails and wildlife, plan future trips, and record every adventure with photos, notes, hikes, weather, and sightings. Includes badges, secret park rewards, and offline-first trip tracking for exploring beyond cell service.
 
 ---
 
@@ -33,12 +31,12 @@ Built with Electron. Handles files up to 1 GB+ by running all parsing in a backg
 
 ---
 
-### [XML Deep View](https://github.com/atoutalligotr/xml-deep-view.git)
-> VS Code extension that renders large XML and JSON files as collapsible, searchable tree views.
+### [Excel Delta View](https://github.com/atoutalligotr/excel-delta-view.git)
+> VS Code extension for side-by-side Excel file comparison with cell-level diffs and exportable reports.
 
-Handles files that break VS Code's built-in formatter. Color-coded nodes, inline search with auto-expand, and a stats panel showing node counts, max depth, and tag frequency — all via a SAX streaming parser for large file support.
+Pick two `.xlsx` files, select sheets to compare, and get a visual diff with similarity scores per sheet. Export results as a multi-tab Excel report or a self-contained, password-protected HTML file (AES-256-GCM).
 
-**Stack:** TypeScript · VS Code API · fast-xml-parser · esbuild
+**Stack:** TypeScript · VS Code API · ExcelJS · esbuild
 
 ---
 
