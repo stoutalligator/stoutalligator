@@ -6,7 +6,7 @@ I build tools that make tedious things fast — study platforms, mobile companio
 
 ## Featured Projects
 
-### [ATLAS](https://www.study-atlas.com)
+### Actuarial Exam Study Platform
 > Actuarial exam study platform with spaced repetition, daily games, and a full content management system.
 
 Built for students preparing for actuarial exams. Covers everything from structured topic content and flashcards to practice problems, forum discussions, and a character/XP progression system with tiered badges. Admins manage all content through an in-app block editor, with separate develop, staging, and production environments.
@@ -15,17 +15,17 @@ Built for students preparing for actuarial exams. Covers everything from structu
 
 ---
 
-### ATLAS Companion
-> iOS companion app for ATLAS — study flashcards on your phone with a Duolingo-style path through each exam.
+### Study Platform Companion App
+> iOS companion app for the study platform — study flashcards on your phone with a Duolingo-style path through each exam.
 
-One level per chapter, plus free review with filters. Progress syncs both ways with the ATLAS website through a dedicated mobile API, so you can pick up on your phone right where you left off on desktop.
+One level per chapter, plus free review with filters. Progress syncs both ways with the website through a dedicated mobile API, so you can pick up on your phone right where you left off on desktop.
 
 **Stack:** React Native · Expo · TypeScript
 
 ---
 
-### [ATLAS Game Engine](https://github.com/stoutalligator/atlas-game-engine)
-> The daily games behind ATLAS, packaged as drop-in React components — usable outside of ATLAS too.
+### Daily Puzzle Game Engine
+> The daily games behind the study platform, packaged as drop-in React components that can be reused in other apps.
 
 Six daily puzzles, including a nonogram that grows through the week, a sliding-block puzzle, an unfolding crossword, and *Black Swan*, a guessing game scored by how rare your answer is. Every player gets the same puzzle each day, with streaks, stats, and share text built in. Puzzle libraries are verified solvable by the test suite.
 
